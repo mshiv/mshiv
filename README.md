@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/twitter/follow/murushiv?logo=twitter&style=flat-square)](https://twitter.com/murushiv)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mshiv)
 
-### Hi, I'm Shiva Muruganandham! I'm currently a graduate student in Ocean Science and Engineering at Georgia Institute of Technology (United States).
+### Hi, I'm Shiva Muruganandham! 
+
+I'm currently a graduate student in Ocean Science and Engineering at Georgia Institute of Technology (United States).
 
 How to reach me: shoot me an email at: mshiv@gatech.edu or shivamurug@gmail.com
