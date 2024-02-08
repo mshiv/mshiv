@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 I'm currently a graduate student in Ocean Science and Engineering at Georgia Institute of Technology (United States).
 
-How to reach me: shoot me an email at: mshiv@gatech.edu or shivamurug@gmail.com
+Contact: mshiv@gatech.edu or shivamurug@gmail.com
