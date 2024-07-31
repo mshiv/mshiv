@@ -10,8 +10,10 @@ Here are some ideas to get you started:
 
 Hi! I'm Shiva.
 
-I'm a doctoral candidate in Ocean Science and Engineering at Georgia Tech (United States), pursuing research interests in earth system science and glaciology.
+I'm a currently doctoral candidate in Ocean Science and Engineering at Georgia Tech (United States), pursuing research interests in earth system science and glaciology.
 
-I strongly believe in open collaboration. Feel free to contact me at mshiv@gatech.edu or shivamurug@gmail.com if you're interested in my work or would like to connect.
+I strongly believe in open collaboration. Feel free to contact me at mshiv@gatech.edu or shivamurug@gmail.com if you're interested in my work or would like to connect. 
 
-[Personal Website](https://www.mshivaprakash.com/) | [Google Scholar](https://scholar.google.com/citations?user=-idNR8nzsiMC&hl=en) | [LinkedIn](https://www.linkedin.com/in/mshiv) | [Twitter](https://twitter.com/murushiv)
+Or find me elsewhere on the interwebs.
+
+[Website](https://www.mshivaprakash.com/) | [Google Scholar](https://scholar.google.com/citations?user=-idNR8nzsiMC&hl=en) | [LinkedIn](https://www.linkedin.com/in/mshiv) | [Twitter](https://twitter.com/murushiv) | [Bluesky](https://bsky.app/profile/murushiv.bsky.social)
